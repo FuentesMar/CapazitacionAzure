@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/b59384a7-65e9-46e9-a361-0f83d2ca782d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/CapacitacionAzr",
+    "appService.deploySubpath": "."
+}
